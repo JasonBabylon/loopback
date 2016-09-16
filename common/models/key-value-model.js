@@ -1,4 +1,4 @@
-var g = require('strong-globalize')();
+var g = require('../../lib/globalize');
 
 module.exports = function(KeyValueModel) {
   // TODO add api docs
